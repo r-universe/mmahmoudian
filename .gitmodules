@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sivs"]
 	path = sivs
 	url = https://github.com/mmahmoudian/sivs
-	shallow = true
-	registered = true
 [submodule "varhandle"]
 	path = varhandle
 	url = https://bitbucket.org/mehrad_mahmoudian/varhandle
-	shallow = true
-	registered = true
