@@ -7,4 +7,4 @@
 	url = https://github.com/mmahmoudian/sivs
 [submodule "varhandle"]
 	path = varhandle
-	url = https://bitbucket.org/mehrad_mahmoudian/varhandle
+	url = https://codeberg.org/mehrad/varhandle
